@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">sample</string>
+    <string name="failure_time_out_error">Request time out!</string>
+    <string name="failure_something_went_wrong">Something went wrong please try again later!</string>
+    <string name="failure_server_not_responding">Oops! looks like we are having internal problems. Please try again later.</string>
+    <string name="failure_internet_connection">Internet connection appears to be offline. Please check your network settings.</string>
+
+</resources>
